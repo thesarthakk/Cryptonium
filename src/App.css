@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Burned&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Expletus+Sans:wght@700&family=Rubik+Burned&display=swap');
+.logo{
+  /* font-family: 'Rubik Burned', system-ui; */
+  font-family: 'Expletus Sans', sans-serif;
+
+}
+
+body{
+  background-color: #1e293b;
+}
